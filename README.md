@@ -20,13 +20,13 @@ Permite desarrollar módulos reutilizables, integrar servicios externos y organi
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/LozanoTH/skd-bot-de-whatsapp.git
+git clone https://github.com/LozanoTH/whatsapp-sdk.git
 ```
 
 Accede al directorio:
 
 ```bash
-cd skd-bot-de-whatsapp
+cd whatsapp-sdk
 ```
 
 Instala las dependencias:
@@ -40,7 +40,7 @@ npm install
 ## Estructura recomendada
 
 ```text
-skd-bot-de-whatsapp/
+whatsapp-sdk/
 │
 ├── tools/
 │   ├── ejemplo.js
