@@ -1,3 +1,6 @@
+[![Licencia](https://img.shields.io/github/license/LozanoTH/whatsapp-sdk)](LICENSE)
+[![Lenguaje](https://img.shields.io/github/languages/top/LozanoTH/whatsapp-sdk)](https://github.com/LozanoTH/whatsapp-sdk)
+
 ## whatsapp-sdk
 
 SDK orientado a la creación de herramientas compatibles con bots de WhatsApp.
